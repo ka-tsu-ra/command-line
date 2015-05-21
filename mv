@@ -1,0 +1,1 @@
+the mv command moves a file from one place to another. it can also be used to rename a file: mv oldfilename newfilename
