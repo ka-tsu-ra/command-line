@@ -1,0 +1,1 @@
+grep searches text and returns lines that include a given search argument: grep searchargument filename
